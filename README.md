@@ -143,6 +143,7 @@ Tip: If using a custom domain or CDN, ensure the site and video files share the 
 ## 🙌 Credits
 
 Design & build by **Vishuddhi**
+
 Concepts: Awwwards-style interactions, modern motion, and playful UX
 
 ---
