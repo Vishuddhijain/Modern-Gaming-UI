@@ -21,6 +21,7 @@ Build a visually captivating website inspired by Zentry, integrating scroll-trig
 
 ## 🗂️ Project Structure
 
+
 .
 ├─ index.html
 ├─ style.css
@@ -39,6 +40,8 @@ Build a visually captivating website inspired by Zentry, integrating scroll-trig
 │  └─ hero-4.mp4
 └─ audio/
    └─ loop.mp3
+
+   
 ```
 
 **Important:** keep folder names and paths exactly as above to avoid 404s and CORS issues when generating thumbnails from videos.
