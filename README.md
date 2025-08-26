@@ -22,8 +22,6 @@ Build a visually captivating website inspired by Zentry, integrating scroll-trig
 ## 🗂️ Project Structure
 
 
-
-.
 ├─ index.html
 ├─ style.css
 ├─ script.js
@@ -55,7 +53,7 @@ Build a visually captivating website inspired by Zentry, integrating scroll-trig
 
 For best results, run a local server (prevents CORS errors during video-frame capture):
 
-```
+
 
 ## 🌐 Deploy (GitHub Pages)
 
